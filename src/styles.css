@@ -11,3 +11,9 @@ body,
 canvas{
     touch-action: none;
 }
+.portafolio-txt{
+    position: absolute;
+    z-index: 1;
+    color: #FFFFFF;
+    margin-left: 3%;
+}
